@@ -11,6 +11,6 @@ Hi there, this is Mateo Cano / Medellín (Colombia).
 
 ## Repository Information:
 
-This repository was created for the [Developers-SAP tutorial](https://developers.sap.com/group.appstudio-fiori.html). 
+This repository was created for the [Developers-SAP tutorial](https://developers.sap.com/tutorials/abap-environment-external-api.html) and other ways to call external services. 
 
-App link: https://4e34cb79trial.launchpad.cfapps.us10.hana.ondemand.com/98be8967-8282-4c4c-bf52-e79f2cabdcb0.FioriDemo.mccsuppliersui5-0.0.1/
+
